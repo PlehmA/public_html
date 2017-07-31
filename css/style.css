@@ -1,0 +1,27 @@
+body
+{
+	font-family: 'Rambla', sans-serif;
+	background-color: #F5DEB3;
+	margin: 0;
+    padding: 0;
+    padding-bottom: 70px;
+}
+a
+{
+ 	text-decoration: none;
+}
+footer
+{
+
+}
+td
+{
+	font-size: 17px;
+}
+th{
+	text-align: center;
+}
+h1
+{
+	font-size: 40px;
+}
